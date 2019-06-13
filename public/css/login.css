@@ -1,0 +1,13 @@
+@import url("//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css");
+body {
+    background: #f4f4f4;
+    /* background: #DE6262;
+    background: -webkit-linear-gradient(to bottom, #FFB88C, #DE6262);
+    background: linear-gradient(to bottom, #FFB88C, #DE6262); */
+}
+.bg-blue {
+    background: #004787;
+}
+.color-blue {
+    color: #004787;
+}
