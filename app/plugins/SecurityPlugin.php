@@ -59,7 +59,6 @@ class SecurityPlugin extends Plugin
 			$publicResources = [
 				'index'      => ['index'],
 				'about'      => ['index'],
-                'grid'      => ['index'],
 				'register'   => ['index'],
 				'login'      => ['index'],
 				'errors'     => ['show401', 'show404', 'show500'],

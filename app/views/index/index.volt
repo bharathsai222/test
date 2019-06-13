@@ -6,7 +6,7 @@
                     <header class="site-header">
                         <div class="container-fluid sp-cont">
                             <div class="site-logo">
-                                <h1><a href="index.html"><img src="./images/athens-logo.jpg" alt="Logo"></a></h1>
+                                <h1><a href="#"><img src="./images/athens-logo.jpg" alt="Logo"></a></h1>
                             </div>
                             <div class="header-right">
                                 <div class="user-login-panel">
